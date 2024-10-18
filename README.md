@@ -20,7 +20,7 @@ The goal of this project was to create a visually appealing and interactive web 
 - Smooth hover animations for visual engagement.
 - Responsive design for both mobile and desktop devices.
 
-## Technologies Used
+## Tools
 - HTML5
 - CSS3
 - JavaScript
@@ -31,4 +31,4 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/seminar-student-council.git
+   git clone https://github.com/rizkyngrh23/expand-hover-effect.git
