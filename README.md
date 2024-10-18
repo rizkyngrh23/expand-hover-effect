@@ -1,6 +1,6 @@
 # Expand Hover Effect
 
-This project is an interactive web page developed to showcase various multimedia elements.
+The Expand Hover Effect animates character cards on hover, expanding them to reveal videos and descriptions, enhancing user engagement and visual appeal. 
 
 ## Project Overview
 The goal of this project was to create a visually appealing and interactive web page that allows users to explore various elements related to the content.
