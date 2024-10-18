@@ -5,6 +5,14 @@ The Expand Hover Effect animates character cards on hover, expanding them to rev
 ## Project Overview
 The goal of this project was to create a visually appealing and interactive web page that allows users to explore various elements related to the content.
 
+**Preview**
+   <div align="center">
+      <img src="https://github.com/user-attachments/assets/34c5d66a-e014-4c4d-b827-2eae21748139" alt="preview" width="800" />
+   </div>
+
+
+
+
 ## Features
 - Interactive multimedia content.
 - Smooth hover animations for visual engagement.
