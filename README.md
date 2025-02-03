@@ -125,10 +125,10 @@ To get a local copy up and running, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd expand-hover-effect
+   cd expand-hover-effect/Script
 3. Open the index.html file in your browser to view the project:
    ```bash
-   open index.html
+   open seminar.html
 
 ## How to Use
 - Hover over the images to see the smooth hover effects, including the expansion of the image block and the appearance of an overlay with a description.
